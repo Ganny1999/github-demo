@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Comparison file 1. im file one used for compasrison.hfsdvbvhsbvhsbvhsbvhsbv
+=======
+Comparison file 1.
+>>>>>>> new-branch
