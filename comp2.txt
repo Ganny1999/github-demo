@@ -1,0 +1,1 @@
+Comparison file 2, used for the comparison between two file and write in modification stage.
